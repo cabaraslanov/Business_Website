@@ -1,0 +1,57 @@
+*{
+    margin:0 !important;
+    padding:0 !important;
+}
+body{
+    background-color: #F2F2F2;
+}
+
+.headerText{
+    font-size: 3.5rem;
+}
+.person{
+    margin-top: -17% !important;
+    background:none;
+}
+.contactTr{
+    width:90px;
+}
+.contactTab{
+    margin-top:-30px !important;
+}
+.contFooter{
+    padding:100px 0 !important;
+}
+
+
+
+@media screen and (max-width:1400px) {
+    
+}
+
+@media screen and (max-width:1200px) {
+    
+}
+
+@media screen and (max-width:992px) {
+   
+}
+
+@media screen and (max-width:768px) {
+    
+    .footerLeft{
+        padding:0 100px 20px !important;
+        font-family: oswald;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .headerText{
+        font-size: 3rem;
+        padding: 0;
+    }
+    .footerLeft{
+        padding:0 50px 20px !important;
+    }
+}
+
